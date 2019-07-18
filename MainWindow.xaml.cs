@@ -29,5 +29,10 @@ namespace CreatingandLeadingEffectiveOrganizations
         {
 
         }
+
+        private void RichTextBox_TextChanged_1(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

@@ -39,16 +39,22 @@
         </RichTextBox>
         <Image HorizontalAlignment="Left" Height="461" Margin="534,4,-15,0" VerticalAlignment="Top" Width="494" Source="Image1.png"/>
         <Image HorizontalAlignment="Left" Height="219" Margin="531,473,0,-4" VerticalAlignment="Top" Width="482" Source="Image2.png"/>
-        <RichTextBox HorizontalAlignment="Left" Height="232" Margin="6,461,0,-5" VerticalAlignment="Top" Width="518" FontSize="16">
+        <RichTextBox HorizontalAlignment="Left" Height="232" Margin="6,461,0,-5" VerticalAlignment="Top" Width="518" FontSize="16" TextChanged="RichTextBox_TextChanged_1">
             <FlowDocument>
                 <Paragraph>
                     <Run FontSize="14" Text="The "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" FontSize="14" Text="decision making process "/>
-                    <Run FontSize="14" Text="is a critical skill for managers.  Cooperation, trust and reciprocity, Social norms are important sociological elements that influence the decision making process.  The "/>
+                    <Run Text=" "/>
+                    <Run FontSize="14" Text="is a critical skill for managers.  Cooperation, trust and reciprocity and social norms are important sociological elements that influence the decision making process.  The "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" FontSize="14" Text="rational approach "/>
+                    <Run Text=" "/>
                     <Run FontSize="14" Text="consists of identifying the problem or opportunity, gathering information, analyzing the situation, developing and evaluating options, selecting a preferred alternative and acting on a decision. "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" FontSize="14" Text="Adaptive decision making:  "/>
-                    <Run FontSize="14" Text="Adaption assumes change, fluctuating, observable measurements in a process that uses information. Individuals with a strong sense of self leadership will consider themselves to have more innovation and creativity potential than individuals who consider themselves to have weak self leadership. Individual who have innovations and creativity potential will be more likely to practice innovation and creativity than others. Reference: Adaptive decision making and intellectual styles, Francesco Sofo, 2013."/>
+                    <Run Text=" "/>
+                    <Run FontSize="14" Text="Adaptive decision making entails utilizing information in a process with fluctuating measurements. Individuals with a strong sense of self leadership will consider themselves to have more innovation and creativity potential than individuals who consider themselves to have weak self leadership.  Reference: Adaptive decision making and intellectual styles, Francesco Sofo, 2013."/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
