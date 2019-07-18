@@ -5,15 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CreatingandLeadingEffectiveOrganizations"
         mc:Ignorable="d"
-        Title="CreatingandLeadingEffectiveOrganization" Height="737.06" Width="1033.216" MaxWidth="1033" MaxHeight="729">
+        Title="CreatingandLeadingEffectiveOrganization" Height="737.06" Width="956.216" MaxWidth="956" MaxHeight="737">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="Black" Offset="0"/>
             <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
         </LinearGradientBrush>
     </Window.Background>
-    <Grid Margin="0,0,12,10">
-        <RichTextBox HorizontalAlignment="Left" Height="270" Margin="4,3,0,0" VerticalAlignment="Top" Width="507" TextChanged="RichTextBox_TextChanged">
+    <Grid Margin="0,0,12,10" Cursor="None">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <RichTextBox HorizontalAlignment="Left" Height="270" Margin="4,3,0,0" VerticalAlignment="Top" Width="516" TextChanged="RichTextBox_TextChanged">
             <FlowDocument>
                 <Paragraph FontWeight="Bold" FontSize="16" FontFamily="Times New Roman" Margin="0" TextAlignment="Left">
                     <Run Text="                                     Ethics and Integrity Management"/>
@@ -37,9 +40,8 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <Image HorizontalAlignment="Left" Height="461" Margin="534,4,-15,0" VerticalAlignment="Top" Width="494" Source="Image1.png"/>
-        <Image HorizontalAlignment="Left" Height="219" Margin="531,473,0,-4" VerticalAlignment="Top" Width="482" Source="Image2.png"/>
-        <RichTextBox HorizontalAlignment="Left" Height="232" Margin="6,461,0,-5" VerticalAlignment="Top" Width="518" FontSize="16" TextChanged="RichTextBox_TextChanged_1">
+        <Image HorizontalAlignment="Left" Height="210" Margin="530,485,0,-7" VerticalAlignment="Top" Width="406" Source="Image2.png"/>
+        <RichTextBox HorizontalAlignment="Left" Height="212" Margin="6,461,0,0" VerticalAlignment="Top" Width="518" FontSize="16" TextChanged="RichTextBox_TextChanged_1">
             <FlowDocument>
                 <Paragraph>
                     <Run FontSize="14" Text="The "/>
@@ -58,7 +60,8 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <Image HorizontalAlignment="Left" Height="183" Margin="6,280,0,0" VerticalAlignment="Top" Width="505" Source="photo3.png"/>
+        <Image HorizontalAlignment="Left" Height="183" Margin="6,280,0,0" VerticalAlignment="Top" Width="516" Source="photo3.png"/>
+        <Image HorizontalAlignment="Left" Height="493" Margin="531,-1,0,0" VerticalAlignment="Top" Width="404" Source="versatility.png"/>
 
     </Grid>
 </Window>
