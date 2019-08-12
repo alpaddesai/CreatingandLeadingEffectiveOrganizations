@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CreatingandLeadingEffectiveOrganizations"
         mc:Ignorable="d"
-        Title="CreatingandLeadingEffectiveOrganization" Height="737.06" Width="956.216" MaxWidth="956" MaxHeight="737">
+        Title="CreatingandLeadingEffectiveOrganization" Height="709.06" Width="959.216" MaxWidth="959" MaxHeight="709">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="Black" Offset="0"/>
@@ -16,32 +16,23 @@
         <Grid.Background>
             <ImageBrush/>
         </Grid.Background>
-        <RichTextBox HorizontalAlignment="Left" Height="270" Margin="4,3,0,0" VerticalAlignment="Top" Width="516" TextChanged="RichTextBox_TextChanged">
+        <RichTextBox HorizontalAlignment="Left" Height="219" Margin="4,3,0,0" VerticalAlignment="Top" Width="508" TextChanged="RichTextBox_TextChanged">
             <FlowDocument>
                 <Paragraph FontWeight="Bold" FontSize="16" FontFamily="Times New Roman" Margin="0" TextAlignment="Left">
                     <Run Text="                                     Ethics and Integrity Management"/>
                 </Paragraph>
                 <Paragraph FontWeight="Bold" FontSize="16" FontFamily="Times New Roman" Margin="0" TextAlignment="Left">
-                    <Run/>
-                </Paragraph>
-                <Paragraph FontWeight="Bold" FontSize="16" FontFamily="Times New Roman" Margin="0" TextAlignment="Left">
                     <Run FontWeight="Normal" Text="Managers need to focus their attention on the needs and expectations of company shareholders. Goal is to maximize shareholder's wealth.  Managers have a fiduciary obligation to maximize the interest of shareholders and that excessive efforts to engage in corporate social responsibility may undermine this obligation. The neoclassical model states that managers who try to maximize profits for shareholders are considered to be very successful and they have fulfilled their professional and social responsibilities.  However this neoclassical managerial framework and articulation of a sole corporate objective function has been classified to be very narrow in scope."/>
                 </Paragraph>
                 <Paragraph FontWeight="Bold" FontSize="16" FontFamily="Times New Roman" Margin="0" TextAlignment="Left">
-                    <Run FontWeight="Normal" Text=" "/>
-                    <Run/>
-                </Paragraph>
-                <Paragraph FontWeight="Bold" FontSize="16" FontFamily="Times New Roman" Margin="0" TextAlignment="Left">
                     <Run FontSize="12" Text="Reference: Managing for Ethical Organizational Integrity,  "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Normal" FontSize="12" Text="principles and processes for promoting good, right and virtuous conduct - Abe J. Zakhem, Daniel E Palmer"/>
-                </Paragraph>
-                <Paragraph>
-                    <Run/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <Image HorizontalAlignment="Left" Height="210" Margin="530,485,0,-7" VerticalAlignment="Top" Width="406" Source="Image2.png"/>
-        <RichTextBox HorizontalAlignment="Left" Height="212" Margin="6,461,0,0" VerticalAlignment="Top" Width="518" FontSize="16" TextChanged="RichTextBox_TextChanged_1">
+        <Image HorizontalAlignment="Left" Height="185" Margin="530,478,-4,0" VerticalAlignment="Top" Width="413" Source="Image2.png" RenderTransformOrigin="0.555,0.527"/>
+        <RichTextBox HorizontalAlignment="Left" Height="207" Margin="4,406,0,0" VerticalAlignment="Top" Width="519" FontSize="16" TextChanged="RichTextBox_TextChanged_1">
             <FlowDocument>
                 <Paragraph>
                     <Run FontSize="14" Text="The "/>
@@ -60,8 +51,18 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <Image HorizontalAlignment="Left" Height="183" Margin="6,280,0,0" VerticalAlignment="Top" Width="516" Source="photo3.png"/>
-        <Image HorizontalAlignment="Left" Height="493" Margin="531,-1,0,0" VerticalAlignment="Top" Width="404" Source="versatility.png"/>
+        <Image HorizontalAlignment="Left" Height="177" Margin="7,225,0,0" VerticalAlignment="Top" Width="530" Source="photo3.png"/>
+        <Image HorizontalAlignment="Left" Height="478" Margin="531,-1,0,0" VerticalAlignment="Top" Width="399" Source="versatility.png"/>
+        <Button x:Name="Project_Management" Content="Project Management" HorizontalAlignment="Left" Margin="9,619,0,0" VerticalAlignment="Top" Width="182" Height="43" Click="Project_Management_Click">
+            <Button.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HighlightTextColorKey}}"/>
+            </Button.Background>
+        </Button>
+        <Button Content="PCB Design" HorizontalAlignment="Left" Margin="208,620,0,0" VerticalAlignment="Top" Width="173" Height="42" IsDefault="True" Click="Button_Click">
+            <Button.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlLightLightColorKey}}"/>
+            </Button.Background>
+        </Button>
 
     </Grid>
 </Window>
