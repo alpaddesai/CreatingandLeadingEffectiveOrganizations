@@ -112,9 +112,6 @@
     <Resource Include="Image2.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Image3.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="photo3.png" />
   </ItemGroup>
   <ItemGroup>
