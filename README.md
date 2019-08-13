@@ -4,8 +4,4 @@ The project provides an introduction to creating and leading effective organizat
 
 ![image](CLEO.png)
 
-![image](TPM.png)
-
-![image](PCB.png)
-
 
