@@ -67,22 +67,8 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="PCBDesigns.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Project Management.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PCBDesigns.xaml.cs">
-      <DependentUpon>PCBDesigns.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Project Management.xaml.cs">
-      <DependentUpon>Project Management.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -116,18 +102,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="versatility.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Image1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Image4.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Image5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Image6.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

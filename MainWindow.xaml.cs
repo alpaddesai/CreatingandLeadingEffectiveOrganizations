@@ -35,16 +35,7 @@ namespace CreatingandLeadingEffectiveOrganizations
 
         }
 
-        private void Project_Management_Click(object sender, RoutedEventArgs e)
-        {
-            Project_Management Project_ManagementObject = new Project_Management();
-            Project_ManagementObject.Show();
-        }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            PCBDesigns PCBDesignsObject = new PCBDesigns();
-            PCBDesignsObject.Show();
-        }
+     
     }
 }

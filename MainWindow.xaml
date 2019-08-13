@@ -53,16 +53,6 @@
         </RichTextBox>
         <Image HorizontalAlignment="Left" Height="177" Margin="7,225,0,0" VerticalAlignment="Top" Width="530" Source="photo3.png"/>
         <Image HorizontalAlignment="Left" Height="478" Margin="531,-1,0,0" VerticalAlignment="Top" Width="399" Source="versatility.png"/>
-        <Button x:Name="Project_Management" Content="Project Management" HorizontalAlignment="Left" Margin="9,619,0,0" VerticalAlignment="Top" Width="182" Height="43" Click="Project_Management_Click">
-            <Button.Background>
-                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HighlightTextColorKey}}"/>
-            </Button.Background>
-        </Button>
-        <Button Content="PCB Design" HorizontalAlignment="Left" Margin="208,620,0,0" VerticalAlignment="Top" Width="173" Height="42" IsDefault="True" Click="Button_Click">
-            <Button.Background>
-                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlLightLightColorKey}}"/>
-            </Button.Background>
-        </Button>
 
     </Grid>
 </Window>
