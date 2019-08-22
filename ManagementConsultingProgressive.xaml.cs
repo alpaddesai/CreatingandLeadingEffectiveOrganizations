@@ -10,17 +10,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace CreatingandLeadingEffectiveOrganizations
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for ManagementConsultingProgressive.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ManagementConsultingProgressive : Window
     {
-        public MainWindow()
+        public ManagementConsultingProgressive()
         {
             InitializeComponent();
         }
@@ -35,16 +34,10 @@ namespace CreatingandLeadingEffectiveOrganizations
 
         }
 
-        private void Progressive_Click(object sender, RoutedEventArgs e)
+        private void FinancialAnalysis_Click(object sender, RoutedEventArgs e)
         {
-            ManagementConsultingProgressive ManagementConsultingProgressiveObject = new ManagementConsultingProgressive();
-            ManagementConsultingProgressiveObject.Show();
-        }
-
-        private void MgmtConsultingMGM_Click(object sender, RoutedEventArgs e)
-        {
-            MgmtConsultingMGM MgmtConsultingMGMObject = new MgmtConsultingMGM();
-            MgmtConsultingMGMObject.Show();
+            Financial_Analysis Financial_AnalysisObject = new Financial_Analysis();
+            Financial_AnalysisObject.Show();
         }
     }
 }
