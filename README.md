@@ -6,13 +6,13 @@ The project provides an introduction to creating and leading effective organizat
 ![image](Ethics.png)
 
 ## Management Consulting
-![image](ManagementConsultingProgressive.png)
+![image](mgmtconsultingprogressive.png)
 
 ## Financial Analysis
 ![image](FinancialAnalysis.png)
 
 ## Management Consulting MGM
-![image](image3.png)
+![image](mgmtconsultingMGM.png)
 
 
 
