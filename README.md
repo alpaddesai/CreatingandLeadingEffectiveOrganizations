@@ -14,6 +14,5 @@ The project provides an introduction to creating and leading effective organizat
 ## Management Consulting MGM
 ![image](mgmtconsultingMGM.png)
 
-## Certificate 
-![image](CAPMCertificate.jpg)
+
 
