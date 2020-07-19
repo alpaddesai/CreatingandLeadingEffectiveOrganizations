@@ -5,6 +5,9 @@ The project provides an introduction to creating and leading effective organizat
 ## Creating and Leading Effective Organizations
 ![image](Ethics.png)
 
+## Dynamic Communications
+![image](DynamicCommunicationsI.png)
+
 ## Management Consulting
 ![image](mgmtconsultingprogressive.png)
 
