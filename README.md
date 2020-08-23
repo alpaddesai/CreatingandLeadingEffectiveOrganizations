@@ -17,6 +17,5 @@ The project provides an introduction to creating and leading effective organizat
 ## Management Consulting MGM
 ![image](mgmtconsultingMGM.png)
 
-Advanced knowledge in https://github.com/alpaddesai/NewProductDevelopmentProcesses , https://github.com/alpaddesai/ManagingTechnologicalInnovation and https://github.com/alpaddesai/GlobalSupplyChainOperationsManagement
-
+Advanced knowledge in https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/ManagingTechnologicalInnovation 
 
