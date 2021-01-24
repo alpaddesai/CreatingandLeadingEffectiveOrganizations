@@ -19,3 +19,5 @@ The project provides an introduction to creating and leading effective organizat
 
 Advanced knowledge in https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/ManagingTechnologicalInnovation 
 https://github.com/alpaddesai/ManagementConsulting
+
+![image](USCopyrightCertificateofRegistration.png)
