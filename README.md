@@ -18,6 +18,6 @@ The project provides an introduction to creating and leading effective organizat
 ![image](mgmtconsultingMGM.png)
 
 Advanced knowledge in https://github.com/alpaddesai/NewProductDevelopmentProcesses,  https://github.com/alpaddesai/ManagingTechnologicalInnovation 
-https://github.com/alpaddesai/ManagementConsulting and https://github.com/alpaddesai/RealEstatePortfolioIdea.
+https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/RealEstatePortfolioIdea.
 
 ![image](USCopyrightCertificateofRegistration.png)
