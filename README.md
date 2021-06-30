@@ -17,6 +17,9 @@ The project provides an introduction to creating and leading effective organizat
 ## Management Consulting MGM
 ![image](mgmtconsultingMGM.png)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Interest
 ![image](image1.png)
 
