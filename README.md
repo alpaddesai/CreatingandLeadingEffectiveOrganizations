@@ -8,10 +8,10 @@ The project provides an introduction to creating and leading effective organizat
 ## Dynamic Communications
 ![image](DynamicCommunicationsI.jpg)
 
-### Professional Development Co-chair for Society of Women Engineers (SWE) - Boston 2004-2005.
-### Member of Phi Beta Delta Honor Society, International Student and Scholar Institute, NEU
-### OASIS leader & member of the planning committee for the International Carnevale '05 NEU
-### Member of search committee for the Director of the Asian American Center at Northeastern.
+#### Professional Development Co-chair for Society of Women Engineers (SWE) - Boston 2004-2005.
+#### Member of Phi Beta Delta Honor Society, International Student and Scholar Institute, NEU
+#### OASIS leader & member of the planning committee for the International Carnevale '05 NEU
+#### Member of search committee for the Director of the Asian American Center at Northeastern.
 
 ## Management Consulting
 ![image](mgmtconsultingprogressive.png)
@@ -27,4 +27,3 @@ The project provides an introduction to creating and leading effective organizat
 
 Advanced knowledge in https://github.com/alpaddesai/EngineeringProjectManagement,  https://github.com/alpaddesai/ManagingTechnologicalInnovation ,
 https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/RealEstatePortfolioIdea.
-
