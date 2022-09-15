@@ -13,15 +13,6 @@ The project provides an introduction to creating and leading effective organizat
 #### OASIS leader & member of the planning committee for the International Carnevale '05 NEU
 #### Member of search committee for the Director of the Asian American Center at Northeastern.
 
-## Management Consulting
-![image](mgmtconsultingprogressive.png)
-
-## Financial Analysis
-![image](FinancialAnalysis.png)
-
-## Management Consulting MGM
-![image](mgmtconsultingMGM.png)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
