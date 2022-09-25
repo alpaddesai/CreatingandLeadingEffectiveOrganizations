@@ -16,5 +16,7 @@ The project provides an introduction to creating and leading effective organizat
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge in https://github.com/alpaddesai/EngineeringProjectManagement,  https://github.com/alpaddesai/ManagingTechnologicalInnovation,
 https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/RealEstatePortfolioIdea.
