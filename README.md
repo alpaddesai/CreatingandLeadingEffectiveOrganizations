@@ -13,4 +13,4 @@ The project provides an introduction to creating and leading effective organizat
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge in https://github.com/alpaddesai/EngineeringProjectManagement 
+Advanced knowledge in https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
